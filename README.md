@@ -32,7 +32,7 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 ![alt cat](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
 ![alt kitty](https://res.cloudinary.com/myan-ict-for-development-organization/image/upload/v1582101535/p0517py6_th8xyz.jpg)
-![alt mil](https://www.dropbox.com/home/Chatbot%20Training%20Testing?preview=11-01.png)
+![alt mil](https://dl.dropbox.com/s/kg28j1quzkth44m/apr-319.png?dl=0)
 
 
 ##Contributing
